@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8963799-af46-4d66-abe1-16552a3b4b66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day01work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01work.java" afterDir="false" />
+    <list default="true" id="a8963799-af46-4d66-abe1-16552a3b4b66" name="Changes" comment="first day work">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02work/day02work.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day01work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01work/day01work.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +45,14 @@
       <option name="presentableId" value="Default" />
       <updated>1640542001891</updated>
     </task>
+    <task id="LOCAL-00001" summary="initialiser">
+      <created>1640542564161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640542564162</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -56,5 +65,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initialiser" />
+    <MESSAGE value="first day work" />
+    <option name="LAST_COMMIT_MESSAGE" value="first day work" />
   </component>
 </project>
